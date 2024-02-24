@@ -1,0 +1,7 @@
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\bin\Debug\Convert_Number_to_Text.exe.config
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\bin\Debug\Convert_Number_to_Text.exe
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\bin\Debug\Convert_Number_to_Text.pdb
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\obj\Debug\Convert_Number_to_Text.csproj.AssemblyReference.cache
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\obj\Debug\Convert_Number_to_Text.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\obj\Debug\Convert_Number_to_Text.exe
+C:\Users\Berkay\source\repos\Convert_Number_to_Text\Convert_Number_to_Text\obj\Debug\Convert_Number_to_Text.pdb
